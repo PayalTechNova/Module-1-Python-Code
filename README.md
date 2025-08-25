@@ -11,7 +11,7 @@ Each day covers a new Python concept with exercises.
 
 | Day | Topic | Notebook Link |
 |-----|-------------------------------|-------------------------------|
-| 01  | Introduction to Python & Basics | [Day-01.ipynb](Day-01.ipynb) |
+| 01  | [Day-01: Python elif Questions](./Day-01/README.md) |
 | 02  | Variables, Data Types & Type Casting | [Day-02.ipynb](Day-02.ipynb) |
 | 03  | Strings & String Operations | [Day-03.ipynb](Day-03.ipynb) |
 | 04  | Lists & Tuples | [Day-04.ipynb](Day-04.ipynb) |
